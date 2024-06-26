@@ -12,9 +12,9 @@ When I'm not coding, you might find me dabbling in photography or practicing yog
 *   ✉️   You can contact me at [henriett.dev@gmail.com](mailto:henriett.dev@gmail.com)
 *   🧠  I'm learning React and Angular
 *   🦮  I'm passionate about Accessibility and Inclusive Technology
-*   🤝  I'm open to collaborating on Purpose-driven Projects around Diversity and Inclusion
+*   🤝  I'm open to collaborating on Purpose-driven Projects
 
-*   * 🚀  I'm currently working on [Witty Works](http://www.witty.works/)
+*  🚀  I'm currently working on [Witty Works](http://www.witty.works/)
   
   ### Skills 
 <p align="left">
