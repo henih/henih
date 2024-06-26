@@ -4,11 +4,9 @@ Hi 👋 My name is Henriett Horvath
 Front-end Developer
 -------------------
 
-I'm a front-end developer with a unique journey from the world of digital media to the creative and ever-evolving area of web development. My career is a testament to my belief in the power of continuous learning and the sheer joy of creating like you would with a piece of art. 
+I'm a front-end developer with background in digital advertising and I'm passionate about creating inclusive technology. My career is a testament to my belief in the power of continuous learning and the sheer joy of creating like you would with a piece of art. 
 
 When I'm not coding, you might find me dabbling in photography or practicing yoga & meditation. 
-
-Let's connect and share our stories of innovation and inspiration!
 
 *   🌍  I'm based in Zürich, Switzerland
 *   ✉️  You can contact me at [horvath.henriett@gmail.com](mailto:horvath.henriett@gmail.com)
