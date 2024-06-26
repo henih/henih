@@ -9,8 +9,9 @@ I'm a front-end developer with background in digital advertising and I'm passion
 When I'm not coding, you might find me dabbling in photography or practicing yoga & meditation. 
 
 *   🌍  I'm based in Zürich, Switzerland
-*   ✉️  You can contact me at [horvath.henriett@gmail.com](mailto:horvath.henriett@gmail.com)
-*   🧠  I'm learning React
+*   ✉️   You can contact me at [henriett.dev@gmail.com](mailto:henriett.dev@gmail.com)
+*   🧠  I'm learning React and Angular
+*   🦮  I'm passionate about Accessbility and Inclusive Technology
 *   🤝  I'm open to collaborating on Projects
   
   ### Skills 
