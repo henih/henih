@@ -41,6 +41,3 @@ When I'm not coding, you might find me dabbling in photography or practicing yog
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a></p>
-
-### Badges
-<a href="https://github.com/henih" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henih&langs_count=10&title_color=3382ed&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
