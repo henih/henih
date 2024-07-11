@@ -6,7 +6,7 @@ Front-end Developer
 
 I'm a front-end developer with background in digital advertising and I'm passionate about creating inclusive technology. My career is a testament to my belief in the power of continuous learning and the sheer joy of creating like you would with a piece of art. 
 
-When I'm not coding, you might find me dabbling in photography or practicing yoga & meditation. 
+When I'm not coding, you might find me dabbling with photography, practicing yoga & meditation or surfing.
 
 *   🌍  I'm based in Zürich, Switzerland
 *   ✉️   You can contact me at [henriett.dev@gmail.com](mailto:henriett.dev@gmail.com)
